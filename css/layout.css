@@ -305,9 +305,9 @@ fieldset[disabled] .btn-theme {
 }
 
 .promo-block-title {
-  font-size: 50px;
+  font-size: 60px;
   font-weight: bold;
-  padding: 15% 0 0;
+  padding: 8% 0 0;
   color: #27303b;
   position: absolute;
   z-index: top;
@@ -323,7 +323,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .promo-block-text {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     color: #27303b;
     position: absolute;
