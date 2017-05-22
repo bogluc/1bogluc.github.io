@@ -1487,3 +1487,21 @@ fieldset[disabled] .btn-theme {
     text-align: right;
   }
 }
+
+.jumbotron {
+    background-color: white;
+}
+.ApplicationType {
+    color: crimson;
+}
+.ApplicationDescription {
+    color: black;
+}
+.Link {
+    text-decoration: underline;
+    color: blue;
+}
+.Link:hover {
+    text-decoration: underline;
+    color: red;
+}
